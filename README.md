@@ -2,5 +2,5 @@
 
 Tensorflow implementation of "Accelerating the Super-Resolution Convolutional Neural Network"
 
-python 2.7
-tensorflow 1.9.0
+<br>python 2.7
+<br>tensorflow 1.9.0
